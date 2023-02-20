@@ -1,0 +1,24 @@
+1
+num1: -6c8494e58173bc9958b
+num2: 1683d71b140ad80a19ae
+result: fbb8dccbbf39c408423
+
+2
+num1: -669f6f6f5bfaca15401
+num2: c5b00650fd688e61dde2
+result: bf460f5a07a8e1c089e1
+
+3
+num1: 7a98fa5e908ff9cc74e3 
+num2: 7a98fa5e908ff9cc74e3 
+result: 0
+
+4
+num1: 7454b35fe30da4cbb200 
+num2: 7454b35fea29c3ca60d8 
+result: -71c1efeaed8
+
+5
+num1: 12df5c2581ccb0c0
+num2: 744d310b6d69d2d7e
+result: 757b26cdc5869de3e

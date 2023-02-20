@@ -1,0 +1,13 @@
+6
+S 10
+push 4 push 3 push 2 push 1 print pop print pop pop print
+Q 10
+en 7654321 en 1234567 print de en 7654321 print de de de print
+S 9
+push 227 push 117 pop pop print push 6 print pop pop
+Q 9
+en 2 en 3 de de print en 8 en 6 de print
+S 3
+pop push 0 print
+Q 5
+en 1 de de en 3 print

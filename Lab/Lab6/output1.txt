@@ -1,0 +1,29 @@
+ID is : Steve
+Level is : 1
+Money is : 1987
+Hp is : 200
+Role Steve is Warrior
+
+ID is : Legolas
+Level is : 99
+Money is : 99999
+Hp is : 6000
+Role Legolas is Warrior
+
+ID is : Lisa
+Level is : 15
+Money is : 981
+Hp is : 145
+Role Lisa is Magician
+
+ID is : Rose
+Level is : 30
+Money is : 234
+Hp is : 668
+Role Rose is Magician
+
+Checking whether the role can equip a staff..
+error bad_cast
+error bad_cast
+Lisa can equip staff_flame.
+Rose can equip staff_flame.

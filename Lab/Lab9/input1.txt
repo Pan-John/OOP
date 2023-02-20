@@ -1,0 +1,7 @@
+3
+S 8
+push 2 push 3 push 5 push 7 pop print push 6 print
+Q 8
+en 2 en 3 en 5 en 7 de print en 6 print
+S 4
+pop print push 1 print

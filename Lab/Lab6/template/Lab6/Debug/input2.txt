@@ -1,0 +1,7 @@
+6
+Ashe, Archer, 250, 99999, 1
+DoReMi, Magician, 1, 0, 100000
+Richman, Archer, 10, 1, 10
+Feardog, Warrior, 1000, 10000000, 1000000
+Veigar, Magician, 60, 654, 753
+Sion, Warrior, 99, 123456789, 987654321

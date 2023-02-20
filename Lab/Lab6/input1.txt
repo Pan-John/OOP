@@ -1,0 +1,5 @@
+4
+Steve, Warrior, 1, 1987, 200
+Legolas, Archer, 99, 99999, 6000
+Lisa, Magician, 15, 981, 145
+Rose, Magician, 30, 234, 668
