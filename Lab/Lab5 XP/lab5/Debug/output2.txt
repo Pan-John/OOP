@@ -1,0 +1,24 @@
+1
+num1: 4bc18ccdea232b8b415e
+num2: 3369dd28c671ffb663f1
+result: 1857afa523b12bd4dd6d
+
+2
+num1: 279bc188870414803ce0
+num2: b63555ecc9247bda7385
+result: -8e9994644220675a36a5
+
+3
+num1: 4547588797b722ea5bd8
+num2: 1c18c1eec99a5e766c76
+result: 61601a7661518160c84e
+
+4
+num1: 1fbca3900714dd5cc759 
+num2: 22c6f1c62cd67f69d2a1 
+result: -30a4e3625c1a20d0b48
+
+5
+num1: -6af9d87eaaed4de5f0e 
+num2: 341f3442f9537c8c5cb5 
+result: -3aced1cae402516abbc3
